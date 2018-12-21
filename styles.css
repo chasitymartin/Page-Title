@@ -1,0 +1,9 @@
+html {
+    text-align: center;
+}
+.images{
+    display: flex;
+    justify-content:flex-start;
+    height:400px;
+    
+}
